@@ -1,0 +1,15 @@
+{
+	"runtime": {
+		"version": "0.20210415.0",
+		"url": "https://github.com/IShashkin/test/releases/download/runtime_0.20210415.0/runtime.zip"
+	},
+	"protons": [
+		{
+			"version": "Proton 6.3",
+			"url": "https://github.com/IShashkin/test/releases/download/proton_6_3/Proton.6.3.zip"
+		}
+	],
+	"ubisoft_connect": {
+		"url": "https://ubi.li/4vxt9"
+	}
+}
