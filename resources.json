@@ -5,8 +5,14 @@
 	},
 	"protons": [
 		{
-			"version": "Proton 6.3",
+			"name": "proton_6_3",
+			"version": "proton-6.3-4",
 			"url": "https://github.com/IShashkin/test/releases/download/proton_6_3/proton_6.3.zip"
+		},
+		{
+			"name": "proton_experimental",
+			"version": "experimental-6.3-20210521b",
+			"url": "https://github.com/IShashkin/test/releases/download/proton_experimental-6.3-20210521b/proton_experemental.zip"
 		}
 	],
 	"ubisoft_connect": {
